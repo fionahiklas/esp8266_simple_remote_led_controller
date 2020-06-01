@@ -34,6 +34,8 @@ pip install esptool
 * [NodeMcu Lua firmware](https://github.com/nodemcu/nodemcu-firmware)
 * [NodeMCU firmware builder](https://nodemcu-build.com)
 * [ESPtool](https://github.com/espressif/esptool)
+* [ESP Board](https://lastminuteengineers.com/esp8266-nodemcu-arduino-tutorial/)
+* [NodeMCU docs](https://nodemcu.readthedocs.io/en/master/upload/)
 
 
 
